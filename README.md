@@ -1,4 +1,4 @@
-Projeto criado no curso de Microservicos e Mensageria com Spring Cloud e Docker
+Projeto de Microservicos e Mensageria com Spring Cloud e Docker
 
 Necessita criar os containers do RabbitMQ e Keycloak no Docker
 
